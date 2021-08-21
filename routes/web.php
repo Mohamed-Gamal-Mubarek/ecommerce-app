@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers;
+use App\Http\Livewire\About;
 use App\Http\Livewire\Cart;
 use App\Http\Livewire\Checkout;
 use App\Http\Livewire\Contact;
@@ -21,3 +22,4 @@ Route::get('/shop',Shop::class);
 Route::get('/cart',Cart::class)->name('product.cart');
 Route::get('/checkout',Checkout::class);
 Route::get('/contact',Contact::class);
+Route::get('/about',About::class);

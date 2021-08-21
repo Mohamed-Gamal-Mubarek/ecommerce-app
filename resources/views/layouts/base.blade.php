@@ -174,7 +174,7 @@
 									<a href="/contact" class="link-term mercado-item-title">Contact Us</a>
 								</li>
                                 <li class="menu-item">
-									<a href="about-us.html" class="link-term mercado-item-title">About Us</a>
+									<a href="/about" class="link-term mercado-item-title">About Us</a>
 								</li>
 							</ul>
 						</div>
